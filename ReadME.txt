@@ -1,4 +1,3 @@
-This assignment is done by Abhishek Sahu
 In this assignment, I have used Odia as my primary language for Q1 and Q3.
 But due to the fact that NER Dataset is not available for Odia in Q2, I have to switch to hindi for that Question
 
